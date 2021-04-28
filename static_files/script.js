@@ -5,7 +5,8 @@ var app = new Vue({
       showModal: false,
       checklist: 
       [
-        ['Believe in yourself','Believe in your ability to do things and your ability to learn. Nothing is impossible if things are given enough time.']
+        ['Believe in yourself','Believe in your ability to do things and your ability to learn. Nothing is impossible if things are given enough time.'],
+        ['Be original', '']
       ],
       cardContent: '',
       cardTitle: '',
