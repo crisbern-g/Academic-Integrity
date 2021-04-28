@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(235, 235, 235);
+}
+
+.overlay{
+    position: fixed; 
+    height: 100%;
+    width: 100%;
+    top: 0; 
+    bottom: 0; 
+    left: 0; 
+    right: 0; 
+    z-index: 100; 
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+#modalCard{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 120;
+}
+
+.fade-enter-active,
+.fade-leave-active{
+    transition: opacity 0.5s;
+}
+
+.fade-enter,
+.fade-leave-to{
+    opacity: 0;
+}
+
+#navText{
+    font-family: 'Orelega One', cursive; 
+    font-size: 50px;
+}
+
+.card{
+    box-shadow: 5px 10px 18px #888888;
+}
+
+#nav{
+    border-bottom-style: solid;
+    border-bottom-color: rgb(209, 209, 209);
+    border-bottom-width: 0.5px;
+    box-shadow: 1px 1px 10px #888888;
+}
+
+table{
+    border-collapse: separate;
+    border-spacing: 0;
+    box-shadow: 5px 5px 15px #afafaf;
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    border-radius: 20px;
+}
