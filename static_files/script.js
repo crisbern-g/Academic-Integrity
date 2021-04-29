@@ -14,7 +14,7 @@ var app = new Vue({
         ['Try to learn something new every day', 'I believe that the most valuable key to have an academic integrity is being well-learned. In my experience, most of the time, academic dishonesties are rooted from inexperience and ignorance.'],
         ['Don\'t be afraid to seek for help', 'There are people out there that are more than willing to help you. Never miss the chance to build fruitful professional and personal relationships.'],
         ['There are a lot of things that you don\'t know', 'I am not a genius but I am neither stupid. I always think that I have always a room from improvement. Also, do not pretend to know things that you have no idea about.'],
-        ['Know better if you\'re gonna tell on someone', 'Snitching mostly does not make you a hero or a do-gooder. Many things are stake such as trust. Sometimes, the risk is not that worth it. Do not get the wrong idea, all I am sayng is that, carefully assess the situation.']
+        ['Know better if you\'re gonna tell on someone', 'Snitching mostly does not make you a hero or a do-gooder. Many things are at stake such as trust. Sometimes, the risk is not that worth it. Do not get the wrong idea, all I am sayng is that, carefully assess the situation.']
 
       ],
       cardContent: '',
